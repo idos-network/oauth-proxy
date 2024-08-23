@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "vite": "^5.4.2",
+    "vite-plugin-ruby": "^5.0.0"
+  },
+  "dependencies": {
+    "@idos-network/idos-sdk": "^0.3.1",
+    "ethers": "^6.13.2",
+    "vite-plugin-node-polyfills": "^0.22.0"
+  }
+}
